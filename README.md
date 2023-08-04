@@ -28,10 +28,15 @@ Starting Position: (0, 0, 0)
 Initial Direction: N
 
 “f” - (0, 1, 0) - N
+
 “r” - (0, 1, 0) - E
+
 “u” - (0, 1, 0) - U
+
 “b” - (0, 1, -1) - U
+
 “l” - (0, 1, -1) - W
+
 Final Position: (0, 1, -1)
 
 Final Direction: W
