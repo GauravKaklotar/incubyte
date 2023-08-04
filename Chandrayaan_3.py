@@ -91,13 +91,3 @@ class Chandrayaan:
             self.turn_left()
         elif command == "r":
             self.turn_right()
-
-obj = Chandrayaan(0, 0, 0, "N")
-
-commands = ["f", "u", "u", "d", "u", "f"]
-
-for command in commands:
-    obj.execute_command(command)
-
-print("(x, y, z) = ",obj.x, obj.y, obj.z)
-print(obj.direction)
